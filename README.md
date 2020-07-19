@@ -1,4 +1,4 @@
-![image](https://github.com/caffkane/caffkane/blob/master/dino.gif)
+<!-- ![image](https://github.com/caffkane/caffkane/blob/master/dino.gif) -->
 
 <!--
 **caffkane/caffkane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
